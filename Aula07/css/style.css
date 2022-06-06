@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(223, 215, 185);
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+    color:black;
+}
+
+.job-title {
+    background-color:blue;
+    font-size: 20px;
+}
+
+#high {
+    color: blue;
+}
+
+ul {
+    color: black;
+    background-color: rgb(223, 215, 187);
+}
+
+li {
+    background-color: rgb(26, 21, 21);
+}
+
+li {
+    color: white;
+}
